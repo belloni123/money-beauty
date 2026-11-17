@@ -1,0 +1,22 @@
+{
+  "nome": "MONEY BEAUTY",
+  "versao": "1.0.0",
+  "data": "2026-11-17",
+  "artefatos": [
+    {
+      "arquivo": "MONEY-BEAUTY-CONHECIMENTO.md",
+      "bytes": 278721,
+      "sha256": "079d1aeb5b5a1591a7e3fb1f201bfc20521c136e65e554b813fc584cc1b3f7a7"
+    },
+    {
+      "arquivo": "MONEY-BEAUTY-INSTRUCOES.md",
+      "bytes": 3426,
+      "sha256": "d67dc7fccc1eb1c41d899a283bb5f974512f45a3fc59772078b5e6950a2872ef"
+    },
+    {
+      "arquivo": "money-beauty.skill.zip",
+      "bytes": 115557,
+      "sha256": "f560d5c9af8805f1e44b13cb6a31a286711c36868a40c312bcb661636e1389e9"
+    }
+  ]
+}

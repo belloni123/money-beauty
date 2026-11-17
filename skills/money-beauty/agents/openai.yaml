@@ -1,0 +1,4 @@
+interface:
+  display_name: "MONEY BEAUTY"
+  short_description: "Vendas consultivas para saúde, beleza e bem-estar"
+  default_prompt: "Use $money-beauty para organizar o atendimento e as vendas da minha clínica com o framework de 7 etapas."
